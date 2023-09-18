@@ -1,1 +1,10 @@
-/*  your css code here. If applicable */
+/* styles.css */
+
+/* Style the p elements with class selector */
+p.selector {
+    color: #00f;
+    background-color: #eee;
+    font-family: Arial;
+    font-size: 20px;
+}
+
